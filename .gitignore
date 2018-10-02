@@ -1,2 +1,6 @@
-*.o
-3mf2stl
+.vs/
+3mf2stl/bin/
+3mf2stl/obj/
+3mf2stl/3mf2stl.exe
+3mf2stl/3mf2stl.exe.config
+3mf2stl/3mf2stl.pdb
